@@ -13,7 +13,7 @@ Monkey patch for Kotlin stdlib
   - ifNotEmpty(() -> Unit)
 
 ## Testing
-All the methods are tested using kotlin.test.
+All the methods are tested using [kotlin.test](https://github.com/kotlintest/kotlintest).
 
 ## Contributing
 Feel free to open an issue or even a pull request to add stuff you judge that might be helpful to you and other developers.
