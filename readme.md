@@ -7,10 +7,10 @@ Sikoex has the following libraries:
 Monkey patch for Kotlin stdlib
 
 - Nullable types
-  - isNull()
-  - isNotNull()
+  - `isNull()`
+  - `isNotNull()`
 - List
-  - ifNotEmpty(() -> Unit)
+  - `ifNotEmpty(() -> Unit)`
 
 ## Testing
 All the methods are tested using [kotlin.test](https://github.com/kotlintest/kotlintest).

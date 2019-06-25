@@ -15,6 +15,7 @@
 
     <modules>
         <module>sikoex-stdlib</module>
+        <module>sikoex-java</module>
     </modules>
 
     <dependencies>
